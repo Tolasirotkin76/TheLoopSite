@@ -366,6 +366,7 @@ ul {
 }
 .navbar-toggler{
     display: none;
+    background: none;
 }
 
 
